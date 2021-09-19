@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+
+# Author: José Rodolfo (jric002)
+
+echo "hola"
